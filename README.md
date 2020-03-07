@@ -1,4 +1,4 @@
-# colab - Coronavirus COVID-19 Global Cases 
+# Coronavirus COVID-19 Global Cases 
 Data source: Data from Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE
 
 The Center for Systems Science and Engineering (CSSE) at JHU
